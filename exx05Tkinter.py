@@ -67,29 +67,4 @@ LbIpva.place(x=80, y=200)
 
 LbSeguro = customtkinter.CTkLabel(janela, text=f'Seguro:', width=180, font=('Arial', 18), bg_color='#6E84E6')
 LbSeguro.place(x=80, y=280)
-
-
-
-
-
-
-        
-    
-    
-    
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
 janela.mainloop()
